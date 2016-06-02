@@ -2,6 +2,7 @@
 // Array with names
 $a[] = "Anna";
 $a[] = "Brittany";
+$a[] = "Cecilia";
 $a[] = "Cinderella";
 $a[] = "Diana";
 $a[] = "Eva";
